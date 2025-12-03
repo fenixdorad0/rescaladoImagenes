@@ -1,0 +1,22 @@
+# Real-ESRGAN y dependencias para escalado de imágenes con IA
+# Modelos actualizados 2024
+
+# Core
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Real-ESRGAN
+realesrgan>=0.3.0
+basicsr>=1.4.2
+
+# Procesamiento de imágenes
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Interfaz gráfica (opcional, viene con Python)
+# tkinter - incluido en Python estándar
+
+# Utilidades
+tqdm>=4.65.0
+requests>=2.31.0
