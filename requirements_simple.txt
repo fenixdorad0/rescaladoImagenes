@@ -1,0 +1,5 @@
+# Dependencias mínimas para la versión simple
+# Usa el ejecutable realesrgan-ncnn-vulkan incluido
+
+# Solo para la GUI (opcional)
+Pillow>=9.0.0
